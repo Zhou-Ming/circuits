@@ -1,4 +1,2 @@
-(define default-titleblock "title-A2.sym")
-(auto-save-interval 0)
 (component-library "./schematic/symbol/infineon")
 (component-library "./schematic/symbol/nxp")
