@@ -1,2 +1,3 @@
 (component-library "./schematic/symbol/infineon")
 (component-library "./schematic/symbol/nxp")
+(component-library "./schematic/symbol/tline")
